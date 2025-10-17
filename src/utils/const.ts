@@ -192,15 +192,14 @@ export const getRuntimeRunColor = (): string => {
   // Determine current theme (default to dark)
   const isDark =
     dataTheme === 'dark' ||
-    (!dataTheme && savedTheme === 'dark') ||
-    (!dataTheme && !savedTheme);
+    (!dataTheme && savedTheme === 'dark');
 
   return isDark ? RUN_COLOR_DARK : RUN_COLOR_LIGHT;
 };
 
 // Helper function to get theme-aware SINGLE_RUN_COLOR
 export const getRuntimeSingleRunColor = (): string => {
-  if (typeof window === 'undefined') return SINGLE_RUN_COLOR_DARK;
+  if (typeof window === 'undefined') return SINGLE_RUN_COLOR_LIGHT;
 
   const dataTheme = document.documentElement.getAttribute('data-theme');
   const savedTheme = localStorage.getItem('theme');
@@ -208,8 +207,7 @@ export const getRuntimeSingleRunColor = (): string => {
   // Determine current theme (default to dark)
   const isDark =
     dataTheme === 'dark' ||
-    (!dataTheme && savedTheme === 'dark') ||
-    (!dataTheme && !savedTheme);
+    (!dataTheme && savedTheme === 'dark');
 
   return isDark ? SINGLE_RUN_COLOR_DARK : SINGLE_RUN_COLOR_LIGHT;
 };
