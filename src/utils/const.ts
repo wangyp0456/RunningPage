@@ -184,12 +184,12 @@ export const SINGLE_RUN_COLOR_DARK = '#ff4d4f'; // Red for dark theme
 
 // Helper function to get theme-aware RUN_COLOR
 export const getRuntimeRunColor = (): string => {
-  if (typeof window === 'undefined') return RUN_COLOR_LIGHT;
+  if (typeof window === 'undefined') return RUN_COLOR_LIGHT; // 默认返回浅色
 
   const dataTheme = document.documentElement.getAttribute('data-theme');
   const savedTheme = localStorage.getItem('theme');
 
-  // Determine current theme (default to dark)
+  // 默认浅色模式
   const isDark =
     dataTheme === 'dark' ||
     (!dataTheme && savedTheme === 'dark');
@@ -199,12 +199,12 @@ export const getRuntimeRunColor = (): string => {
 
 // Helper function to get theme-aware SINGLE_RUN_COLOR
 export const getRuntimeSingleRunColor = (): string => {
-  if (typeof window === 'undefined') return SINGLE_RUN_COLOR_LIGHT;
+  if (typeof window === 'undefined') return SINGLE_RUN_COLOR_LIGHT; // 默认返回浅色
 
   const dataTheme = document.documentElement.getAttribute('data-theme');
   const savedTheme = localStorage.getItem('theme');
 
-  // Determine current theme (default to dark)
+  // 默认浅色模式
   const isDark =
     dataTheme === 'dark' ||
     (!dataTheme && savedTheme === 'dark');
