@@ -17,8 +17,7 @@ const getBasePath = () => {
 const data: ISiteMetadataResult = {
   siteTitle: 'Wangyp.Running',
   siteUrl: 'https://wangyp0456.github.io/RunningPage',
-  logo: 'https://raw.githubusercontent.com/wangyp0456/RunningPage/main/src/static/logo.jpg
-',
+  logo: 'https://raw.githubusercontent.com/wangyp0456/RunningPage/main/src/static/logo.jpg',
   description: 'Personal site and blog',
   navLinks: [
     {
