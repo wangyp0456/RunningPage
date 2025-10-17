@@ -190,9 +190,7 @@ export const getRuntimeRunColor = (): string => {
   const savedTheme = localStorage.getItem('theme');
 
   // 默认浅色模式
-  const isDark =
-    dataTheme === 'dark' ||
-    (!dataTheme && savedTheme === 'dark');
+  const isDark = dataTheme === 'dark' || (!dataTheme && savedTheme === 'dark');
 
   return isDark ? RUN_COLOR_DARK : RUN_COLOR_LIGHT;
 };
@@ -205,9 +203,7 @@ export const getRuntimeSingleRunColor = (): string => {
   const savedTheme = localStorage.getItem('theme');
 
   // 默认浅色模式
-  const isDark =
-    dataTheme === 'dark' ||
-    (!dataTheme && savedTheme === 'dark');
+  const isDark = dataTheme === 'dark' || (!dataTheme && savedTheme === 'dark');
 
   return isDark ? SINGLE_RUN_COLOR_DARK : SINGLE_RUN_COLOR_LIGHT;
 };
