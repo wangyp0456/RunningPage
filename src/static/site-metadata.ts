@@ -16,17 +16,13 @@ const getBasePath = () => {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Wangyp.Running',
-  siteUrl: '',
-  logo: '/src/static/logo.jpg',
+  siteUrl: 'https://wangyp0456.github.io/RunningPage',
+  logo: 'https://gitee.com/wangyp0456/image-bed/raw/master/images/RunningPage.jpg',
   description: 'Personal site and blog',
   navLinks: [
     {
       name: 'Summary',
       url: `${getBasePath()}/summary`,
-    },
-    {
-      name: 'Blog',
-      url: '',
     },
     {
       name: 'Thinks',
