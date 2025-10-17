@@ -184,7 +184,7 @@ export const SINGLE_RUN_COLOR_DARK = '#ff4d4f'; // Red for dark theme
 
 // Helper function to get theme-aware RUN_COLOR
 export const getRuntimeRunColor = (): string => {
-  if (typeof window === 'undefined') return RUN_COLOR_DARK;
+  if (typeof window === 'undefined') return RUN_COLOR_LIGHT;
 
   const dataTheme = document.documentElement.getAttribute('data-theme');
   const savedTheme = localStorage.getItem('theme');
