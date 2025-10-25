@@ -1,0 +1,3423 @@
+<gpx xmlns:ns3="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns2="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Garmin Connect" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/11.xsd">
+  <extensions>
+<distance>6072.36</distance>
+<average_hr>164.0</average_hr>
+<average_speed>2.854894767812474</average_speed>
+<start_time>2025-09-04T12:18:01+00:00</start_time>
+<end_time>2025-09-04T12:53:28+00:00</end_time>
+<moving_time>2127.0</moving_time>
+<elapsed_time>2127.0</elapsed_time>
+</extensions>
+<metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2025-09-04T12:18:01.000Z</time>
+  </metadata>
+  <trk>
+    <name>武汉市 其他</name>
+    <type>other</type>
+    <trkseg>
+      <trkpt lat="30.462047941982746124267578125" lon="114.61312799714505672454833984375">
+        <time>2025-09-04T12:18:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>132</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46169397421181201934814453125" lon="114.61295197717845439910888671875">
+        <time>2025-09-04T12:18:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>136</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461711995303630828857421875" lon="114.6127279289066791534423828125">
+        <time>2025-09-04T12:18:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>140</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46171392314136028289794921875" lon="114.6125359833240509033203125">
+        <time>2025-09-04T12:18:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>146</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46171794645488262176513671875" lon="114.61234395392239093780517578125">
+        <time>2025-09-04T12:18:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>153</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461703948676586151123046875" lon="114.6121519245207309722900390625">
+        <time>2025-09-04T12:18:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46169397421181201934814453125" lon="114.61196794174611568450927734375">
+        <time>2025-09-04T12:18:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46168995089828968048095703125" lon="114.6118079312145709991455078125">
+        <time>2025-09-04T12:18:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4616839997470378875732421875" lon="114.61164792068302631378173828125">
+        <time>2025-09-04T12:18:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4616699181497097015380859375" lon="114.61151196621358394622802734375">
+        <time>2025-09-04T12:18:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46165793202817440032958984375" lon="114.61137592792510986328125">
+        <time>2025-09-04T12:18:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4616479575634002685546875" lon="114.6112399734556674957275390625">
+        <time>2025-09-04T12:18:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4616219736635684967041015625" lon="114.611095972359180450439453125">
+        <time>2025-09-04T12:19:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46154796145856380462646484375" lon="114.6109519712626934051513671875">
+        <time>2025-09-04T12:19:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46142994426190853118896484375" lon="114.61084795184433460235595703125">
+        <time>2025-09-04T12:19:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46131595037877559661865234375" lon="114.6107759512960910797119140625">
+        <time>2025-09-04T12:19:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46120799146592617034912109375" lon="114.61071199737489223480224609375">
+        <time>2025-09-04T12:19:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46109198592603206634521484375" lon="114.610639996826648712158203125">
+        <time>2025-09-04T12:19:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46097195707261562347412109375" lon="114.61057595908641815185546875">
+        <time>2025-09-04T12:19:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46084798872470855712890625" lon="114.61050395853817462921142578125">
+        <time>2025-09-04T12:19:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>155</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4607279598712921142578125" lon="114.6104319579899311065673828125">
+        <time>2025-09-04T12:19:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>155</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4606099426746368408203125" lon="114.6103679202497005462646484375">
+        <time>2025-09-04T12:19:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>155</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46049594879150390625" lon="114.6103119291365146636962890625">
+        <time>2025-09-04T12:19:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4603819549083709716796875" lon="114.6102559380233287811279296875">
+        <time>2025-09-04T12:19:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>155</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46027592383325099945068359375" lon="114.61019198410212993621826171875">
+        <time>2025-09-04T12:20:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46016595326364040374755859375" lon="114.61013599298894405364990234375">
+        <time>2025-09-04T12:20:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46004994772374629974365234375" lon="114.6100879646837711334228515625">
+        <time>2025-09-04T12:20:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>155</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4599259793758392333984375" lon="114.610055945813655853271484375">
+        <time>2025-09-04T12:20:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>155</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45980192720890045166015625" lon="114.61000791750848293304443359375">
+        <time>2025-09-04T12:20:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45967393554747104644775390625" lon="114.60995192639529705047607421875">
+        <time>2025-09-04T12:20:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4595419205725193023681640625" lon="114.60992795415222644805908203125">
+        <time>2025-09-04T12:20:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45941392891108989715576171875" lon="114.6099119447171688079833984375">
+        <time>2025-09-04T12:20:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459283925592899322509765625" lon="114.60990398190915584564208984375">
+        <time>2025-09-04T12:20:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459175966680049896240234375" lon="114.60999199189245700836181640625">
+        <time>2025-09-04T12:20:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45911394059658050537109375" lon="114.61012794636189937591552734375">
+        <time>2025-09-04T12:20:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45904194004833698272705078125" lon="114.6102639846503734588623046875">
+        <time>2025-09-04T12:20:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4589799977838993072509765625" lon="114.610407985746860504150390625">
+        <time>2025-09-04T12:21:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4589199833571910858154296875" lon="114.61053597740828990936279296875">
+        <time>2025-09-04T12:21:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45886793173849582672119140625" lon="114.61067193187773227691650390625">
+        <time>2025-09-04T12:21:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4588059894740581512451171875" lon="114.61079992353916168212890625">
+        <time>2025-09-04T12:21:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4587459750473499298095703125" lon="114.610927999019622802734375">
+        <time>2025-09-04T12:21:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45869392342865467071533203125" lon="114.61107996292412281036376953125">
+        <time>2025-09-04T12:21:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45864195562899112701416015625" lon="114.61122396402060985565185546875">
+        <time>2025-09-04T12:21:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>154</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45858797617256641387939453125" lon="114.61135991849005222320556640625">
+        <time>2025-09-04T12:21:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>154</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45853592455387115478515625" lon="114.61149595677852630615234375">
+        <time>2025-09-04T12:21:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>153</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45849191956222057342529296875" lon="114.6116399578750133514404296875">
+        <time>2025-09-04T12:21:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45846794731914997100830078125" lon="114.61179192177951335906982421875">
+        <time>2025-09-04T12:21:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45847599394619464874267578125" lon="114.61194396950304508209228515625">
+        <time>2025-09-04T12:21:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45849594287574291229248046875" lon="114.6120959334075450897216796875">
+        <time>2025-09-04T12:22:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45850398950278759002685546875" lon="114.61225594393908977508544921875">
+        <time>2025-09-04T12:22:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>154</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585159756243228912353515625" lon="114.61240799166262149810791015625">
+        <time>2025-09-04T12:22:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585159756243228912353515625" lon="114.61256791837513446807861328125">
+        <time>2025-09-04T12:22:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585179872810840606689453125" lon="114.61271996609866619110107421875">
+        <time>2025-09-04T12:22:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45852595008909702301025390625" lon="114.61287193000316619873046875">
+        <time>2025-09-04T12:22:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45854397118091583251953125" lon="114.6130159310996532440185546875">
+        <time>2025-09-04T12:22:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45855796895921230316162109375" lon="114.61315196938812732696533203125">
+        <time>2025-09-04T12:22:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45858596451580524444580078125" lon="114.61329597048461437225341796875">
+        <time>2025-09-04T12:22:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45860792510211467742919921875" lon="114.6134479343891143798828125">
+        <time>2025-09-04T12:22:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45861597172915935516357421875" lon="114.6135999821126461029052734375">
+        <time>2025-09-04T12:22:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586239345371723175048828125" lon="114.613743983209133148193359375">
+        <time>2025-09-04T12:22:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586239345371723175048828125" lon="114.6138879843056201934814453125">
+        <time>2025-09-04T12:23:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45861597172915935516357421875" lon="114.61404799483716487884521484375">
+        <time>2025-09-04T12:23:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586239345371723175048828125" lon="114.61419199593365192413330078125">
+        <time>2025-09-04T12:23:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586279578506946563720703125" lon="114.6143439598381519317626953125">
+        <time>2025-09-04T12:23:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586319811642169952392578125" lon="114.61447999812662601470947265625">
+        <time>2025-09-04T12:23:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>155</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586519300937652587890625" lon="114.61462399922311305999755859375">
+        <time>2025-09-04T12:23:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45866793952882289886474609375" lon="114.614775963127613067626953125">
+        <time>2025-09-04T12:23:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45869794674217700958251953125" lon="114.6149199642241001129150390625">
+        <time>2025-09-04T12:23:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>159</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45875594951212406158447265625" lon="114.615063965320587158203125">
+        <time>2025-09-04T12:23:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458825938403606414794921875" lon="114.6151999197900295257568359375">
+        <time>2025-09-04T12:23:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4589219950139522552490234375" lon="114.61530393920838832855224609375">
+        <time>2025-09-04T12:23:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>159</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45901595614850521087646484375" lon="114.61540795862674713134765625">
+        <time>2025-09-04T12:23:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4591119289398193359375" lon="114.61550393141806125640869140625">
+        <time>2025-09-04T12:24:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45921393670141696929931640625" lon="114.615583978593349456787109375">
+        <time>2025-09-04T12:24:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45933195389807224273681640625" lon="114.61563996970653533935546875">
+        <time>2025-09-04T12:24:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45944393612444400787353515625" lon="114.61567995138466358184814453125">
+        <time>2025-09-04T12:24:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>159</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45956195332109928131103515625" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:24:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>159</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45968399383127689361572265625" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:24:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45981399714946746826171875" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:24:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4599459283053874969482421875" lon="114.61568799801170825958251953125">
+        <time>2025-09-04T12:24:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.460087917745113372802734375" lon="114.61568799801170825958251953125">
+        <time>2025-09-04T12:24:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46022194437682628631591796875" lon="114.61567995138466358184814453125">
+        <time>2025-09-04T12:24:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4603499360382556915283203125" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:24:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4604759998619556427001953125" lon="114.61570392362773418426513671875">
+        <time>2025-09-04T12:24:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46059192158281803131103515625" lon="114.6157279796898365020751953125">
+        <time>2025-09-04T12:25:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46068797819316387176513671875" lon="114.6157279796898365020751953125">
+        <time>2025-09-04T12:25:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46077397651970386505126953125" lon="114.61574398912489414215087890625">
+        <time>2025-09-04T12:25:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.460901968181133270263671875" lon="114.61573594249784946441650390625">
+        <time>2025-09-04T12:25:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4610439576208591461181640625" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:25:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4611639864742755889892578125" lon="114.6156079508364200592041015625">
+        <time>2025-09-04T12:25:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4612779803574085235595703125" lon="114.6154959686100482940673828125">
+        <time>2025-09-04T12:25:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4613899625837802886962890625" lon="114.615343920886516571044921875">
+        <time>2025-09-04T12:25:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46149197034537792205810546875" lon="114.61519195698201656341552734375">
+        <time>2025-09-04T12:25:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461583919823169708251953125" lon="114.6150399930775165557861328125">
+        <time>2025-09-04T12:25:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4616779647767543792724609375" lon="114.614887945353984832763671875">
+        <time>2025-09-04T12:25:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4617579281330108642578125" lon="114.6147519908845424652099609375">
+        <time>2025-09-04T12:25:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461821965873241424560546875" lon="114.614607989788055419921875">
+        <time>2025-09-04T12:26:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4618539847433567047119140625" lon="114.6144559420645236968994140625">
+        <time>2025-09-04T12:26:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46186395920813083648681640625" lon="114.61429593153297901153564453125">
+        <time>2025-09-04T12:26:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4618559964001178741455078125" lon="114.61414396762847900390625">
+        <time>2025-09-04T12:26:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4618519730865955352783203125" lon="114.6139999665319919586181640625">
+        <time>2025-09-04T12:26:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46183797530829906463623046875" lon="114.61387197487056255340576171875">
+        <time>2025-09-04T12:26:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46183596365153789520263671875" lon="114.61372797377407550811767578125">
+        <time>2025-09-04T12:26:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46183194033801555633544921875" lon="114.61358397267758846282958984375">
+        <time>2025-09-04T12:26:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46182992868125438690185546875" lon="114.61343997158110141754150390625">
+        <time>2025-09-04T12:26:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461823977530002593994140625" lon="114.61329597048461437225341796875">
+        <time>2025-09-04T12:26:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461813919246196746826171875" lon="114.613167978823184967041015625">
+        <time>2025-09-04T12:26:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461817942559719085693359375" lon="114.613047949969768524169921875">
+        <time>2025-09-04T12:26:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46180595643818378448486328125" lon="114.6129119955003261566162109375">
+        <time>2025-09-04T12:27:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46177192591130733489990234375" lon="114.61275994777679443359375">
+        <time>2025-09-04T12:27:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46175197698175907135009765625" lon="114.61260798387229442596435546875">
+        <time>2025-09-04T12:27:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4617299325764179229736328125" lon="114.61246398277580738067626953125">
+        <time>2025-09-04T12:27:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46171995811164379119873046875" lon="114.6123279444873332977294921875">
+        <time>2025-09-04T12:27:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461705960333347320556640625" lon="114.61219995282590389251708984375">
+        <time>2025-09-04T12:27:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461707971990108489990234375" lon="114.6120719611644744873046875">
+        <time>2025-09-04T12:27:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>159</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46171593479812145233154296875" lon="114.6119279600679874420166015625">
+        <time>2025-09-04T12:27:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461711995303630828857421875" lon="114.61179192177951335906982421875">
+        <time>2025-09-04T12:27:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461707971990108489990234375" lon="114.61165596731007099151611328125">
+        <time>2025-09-04T12:27:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>155</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461703948676586151123046875" lon="114.6115279756486415863037109375">
+        <time>2025-09-04T12:27:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46168592758476734161376953125" lon="114.61139998398721218109130859375">
+        <time>2025-09-04T12:27:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4616739414632320404052734375" lon="114.61125598289072513580322265625">
+        <time>2025-09-04T12:28:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46165793202817440032958984375" lon="114.61111198179423809051513671875">
+        <time>2025-09-04T12:28:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461585931479930877685546875" lon="114.610975943505764007568359375">
+        <time>2025-09-04T12:28:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461477972567081451416015625" lon="114.61087192408740520477294921875">
+        <time>2025-09-04T12:28:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461359955370426177978515625" lon="114.61079196073114871978759765625">
+        <time>2025-09-04T12:28:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461245961487293243408203125" lon="114.61072792299091815948486328125">
+        <time>2025-09-04T12:28:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461135990917682647705078125" lon="114.6106559224426746368408203125">
+        <time>2025-09-04T12:28:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46102593652904033660888671875" lon="114.61059196852147579193115234375">
+        <time>2025-09-04T12:28:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46091797761619091033935546875" lon="114.61052793078124523162841796875">
+        <time>2025-09-04T12:28:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46080599538981914520263671875" lon="114.61046397686004638671875">
+        <time>2025-09-04T12:28:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4606959410011768341064453125" lon="114.61041594855487346649169921875">
+        <time>2025-09-04T12:28:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4605839587748050689697265625" lon="114.61035199463367462158203125">
+        <time>2025-09-04T12:28:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46047792769968509674072265625" lon="114.610287956893444061279296875">
+        <time>2025-09-04T12:29:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46037198044359683990478515625" lon="114.6102319657802581787109375">
+        <time>2025-09-04T12:29:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.460267961025238037109375" lon="114.610175974667072296142578125">
+        <time>2025-09-04T12:29:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46015597879886627197265625" lon="114.61012794636189937591552734375">
+        <time>2025-09-04T12:29:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46004198491573333740234375" lon="114.6100879646837711334228515625">
+        <time>2025-09-04T12:29:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45992799103260040283203125" lon="114.61003993637859821319580078125">
+        <time>2025-09-04T12:29:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45980595052242279052734375" lon="114.60998394526541233062744140625">
+        <time>2025-09-04T12:29:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45967192389070987701416015625" lon="114.60995192639529705047607421875">
+        <time>2025-09-04T12:29:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4595459438860416412353515625" lon="114.60992795415222644805908203125">
+        <time>2025-09-04T12:29:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45941795222461223602294921875" lon="114.60990398190915584564208984375">
+        <time>2025-09-04T12:29:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459291972219944000244140625" lon="114.60992795415222644805908203125">
+        <time>2025-09-04T12:29:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45919599942862987518310546875" lon="114.6100319735705852508544921875">
+        <time>2025-09-04T12:29:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45912592671811580657958984375" lon="114.61015996523201465606689453125">
+        <time>2025-09-04T12:30:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459063984453678131103515625" lon="114.610287956893444061279296875">
+        <time>2025-09-04T12:30:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4589979350566864013671875" lon="114.61042399518191814422607421875">
+        <time>2025-09-04T12:30:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45893599279224872589111328125" lon="114.6105519868433475494384765625">
+        <time>2025-09-04T12:30:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45887799002230167388916015625" lon="114.6106639690697193145751953125">
+        <time>2025-09-04T12:30:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458827950060367584228515625" lon="114.6107839979231357574462890625">
+        <time>2025-09-04T12:30:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45877397060394287109375" lon="114.610919952392578125">
+        <time>2025-09-04T12:30:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45869995839893817901611328125" lon="114.61105599068105220794677734375">
+        <time>2025-09-04T12:30:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586339928209781646728515625" lon="114.611207954585552215576171875">
+        <time>2025-09-04T12:30:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585739783942699432373046875" lon="114.61133594624698162078857421875">
+        <time>2025-09-04T12:30:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45852796174585819244384765625" lon="114.61145597510039806365966796875">
+        <time>2025-09-04T12:30:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45849191956222057342529296875" lon="114.61159997619688510894775390625">
+        <time>2025-09-04T12:30:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45847599394619464874267578125" lon="114.61174397729337215423583984375">
+        <time>2025-09-04T12:31:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458477921783924102783203125" lon="114.61188797838985919952392578125">
+        <time>2025-09-04T12:31:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458487980067729949951171875" lon="114.61203197948634624481201171875">
+        <time>2025-09-04T12:31:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45849996618926525115966796875" lon="114.61217598058283329010009765625">
+        <time>2025-09-04T12:31:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45850398950278759002685546875" lon="114.61231998167932033538818359375">
+        <time>2025-09-04T12:31:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585059173405170440673828125" lon="114.61246398277580738067626953125">
+        <time>2025-09-04T12:31:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585159756243228912353515625" lon="114.61260798387229442596435546875">
+        <time>2025-09-04T12:31:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585179872810840606689453125" lon="114.61274393834173679351806640625">
+        <time>2025-09-04T12:31:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45853399671614170074462890625" lon="114.61288793943822383880615234375">
+        <time>2025-09-04T12:31:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45855595730245113372802734375" lon="114.6130239777266979217529296875">
+        <time>2025-09-04T12:31:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>159</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585739783942699432373046875" lon="114.613167978823184967041015625">
+        <time>2025-09-04T12:31:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45859199948608875274658203125" lon="114.61329597048461437225341796875">
+        <time>2025-09-04T12:31:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458599962294101715087890625" lon="114.61343997158110141754150390625">
+        <time>2025-09-04T12:32:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45861396007239818572998046875" lon="114.61358397267758846282958984375">
+        <time>2025-09-04T12:32:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45861597172915935516357421875" lon="114.613735936582088470458984375">
+        <time>2025-09-04T12:32:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45861396007239818572998046875" lon="114.6138799376785755157470703125">
+        <time>2025-09-04T12:32:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45861194841563701629638671875" lon="114.61402393877506256103515625">
+        <time>2025-09-04T12:32:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586259461939334869384765625" lon="114.61415997706353664398193359375">
+        <time>2025-09-04T12:32:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586279578506946563720703125" lon="114.61430397816002368927001953125">
+        <time>2025-09-04T12:32:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45864195562899112701416015625" lon="114.6144559420645236968994140625">
+        <time>2025-09-04T12:32:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45865796506404876708984375" lon="114.6145999431610107421875">
+        <time>2025-09-04T12:32:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45867598615586757659912109375" lon="114.6147519908845424652099609375">
+        <time>2025-09-04T12:32:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45869995839893817901611328125" lon="114.61490395478904247283935546875">
+        <time>2025-09-04T12:32:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45876793563365936279296875" lon="114.6150399930775165557861328125">
+        <time>2025-09-04T12:32:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>159</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45884597115218639373779296875" lon="114.61516798473894596099853515625">
+        <time>2025-09-04T12:33:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45893196947872638702392578125" lon="114.61527996696531772613525390625">
+        <time>2025-09-04T12:33:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45901997946202754974365234375" lon="114.61536797694861888885498046875">
+        <time>2025-09-04T12:33:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45912198722362518310546875" lon="114.61545598693192005157470703125">
+        <time>2025-09-04T12:33:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45923992060124874114990234375" lon="114.615575931966304779052734375">
+        <time>2025-09-04T12:33:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45934192836284637451171875" lon="114.61562396027147769927978515625">
+        <time>2025-09-04T12:33:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459457933902740478515625" lon="114.6156719885766506195068359375">
+        <time>2025-09-04T12:33:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4596099816262722015380859375" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:33:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459753982722759246826171875" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:33:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4598899371922016143798828125" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:33:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>167</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46002396382391452789306640625" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:33:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>167</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.460149943828582763671875" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:33:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>167</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46027399599552154541015625" lon="114.61568799801170825958251953125">
+        <time>2025-09-04T12:34:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.460376925766468048095703125" lon="114.61568799801170825958251953125">
+        <time>2025-09-04T12:34:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4605219326913356781005859375" lon="114.61567995138466358184814453125">
+        <time>2025-09-04T12:34:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46060197986662387847900390625" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:34:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46068194322288036346435546875" lon="114.61570392362773418426513671875">
+        <time>2025-09-04T12:34:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46076592989265918731689453125" lon="114.61571197025477886199951171875">
+        <time>2025-09-04T12:34:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.460899956524372100830078125" lon="114.61571197025477886199951171875">
+        <time>2025-09-04T12:34:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46105192042887210845947265625" lon="114.61565597914159297943115234375">
+        <time>2025-09-04T12:34:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46118997037410736083984375" lon="114.61554399691522121429443359375">
+        <time>2025-09-04T12:34:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46130597591400146484375" lon="114.61541592143476009368896484375">
+        <time>2025-09-04T12:34:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46139993704855442047119140625" lon="114.6152879297733306884765625">
+        <time>2025-09-04T12:34:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4614979214966297149658203125" lon="114.6151519753038883209228515625">
+        <time>2025-09-04T12:34:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46157998032867908477783203125" lon="114.61502398364245891571044921875">
+        <time>2025-09-04T12:35:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46166195534169673919677734375" lon="114.614887945353984832763671875">
+        <time>2025-09-04T12:35:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46174795366823673248291015625" lon="114.614767916500568389892578125">
+        <time>2025-09-04T12:35:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46180796809494495391845703125" lon="114.61462399922311305999755859375">
+        <time>2025-09-04T12:35:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46183998696506023406982421875" lon="114.61447999812662601470947265625">
+        <time>2025-09-04T12:35:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4618539847433567047119140625" lon="114.61432795040309429168701171875">
+        <time>2025-09-04T12:35:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4618519730865955352783203125" lon="114.6141759864985942840576171875">
+        <time>2025-09-04T12:35:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46183797530829906463623046875" lon="114.61403198540210723876953125">
+        <time>2025-09-04T12:35:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46182791702449321746826171875" lon="114.6138799376785755157470703125">
+        <time>2025-09-04T12:35:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46186597086489200592041015625" lon="114.613735936582088470458984375">
+        <time>2025-09-04T12:35:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46186798252165317535400390625" lon="114.6135919354856014251708984375">
+        <time>2025-09-04T12:35:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461871922016143798828125" lon="114.61343192495405673980712890625">
+        <time>2025-09-04T12:35:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>168</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46186194755136966705322265625" lon="114.61328792385756969451904296875">
+        <time>2025-09-04T12:36:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>168</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46182992868125438690185546875" lon="114.61314392276108264923095703125">
+        <time>2025-09-04T12:36:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461823977530002593994140625" lon="114.61298399604856967926025390625">
+        <time>2025-09-04T12:36:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>170</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46180193312466144561767578125" lon="114.61283194832503795623779296875">
+        <time>2025-09-04T12:36:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46175993978977203369140625" lon="114.6126799844205379486083984375">
+        <time>2025-09-04T12:36:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46174393035471439361572265625" lon="114.6125279366970062255859375">
+        <time>2025-09-04T12:36:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4617339558899402618408203125" lon="114.6123839356005191802978515625">
+        <time>2025-09-04T12:36:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4617279209196567535400390625" lon="114.612239934504032135009765625">
+        <time>2025-09-04T12:36:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46171995811164379119873046875" lon="114.61208797059953212738037109375">
+        <time>2025-09-04T12:36:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46171392314136028289794921875" lon="114.61194396950304508209228515625">
+        <time>2025-09-04T12:36:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>173</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46169598586857318878173828125" lon="114.61179996840655803680419921875">
+        <time>2025-09-04T12:36:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>172</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46168995089828968048095703125" lon="114.611663930118083953857421875">
+        <time>2025-09-04T12:36:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>172</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46168793924152851104736328125" lon="114.6115279756486415863037109375">
+        <time>2025-09-04T12:37:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>172</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46166799031198024749755859375" lon="114.61139193736016750335693359375">
+        <time>2025-09-04T12:37:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>172</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46166195534169673919677734375" lon="114.61124793626368045806884765625">
+        <time>2025-09-04T12:37:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46164996922016143798828125" lon="114.61111198179423809051513671875">
+        <time>2025-09-04T12:37:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>172</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46160596422851085662841796875" lon="114.610975943505764007568359375">
+        <time>2025-09-04T12:37:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46152591705322265625" lon="114.610863961279392242431640625">
+        <time>2025-09-04T12:37:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4614119231700897216796875" lon="114.61079196073114871978759765625">
+        <time>2025-09-04T12:37:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>170</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46129994094371795654296875" lon="114.61073596961796283721923828125">
+        <time>2025-09-04T12:37:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46118594706058502197265625" lon="114.61067193187773227691650390625">
+        <time>2025-09-04T12:37:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46107195317745208740234375" lon="114.6106079779565334320068359375">
+        <time>2025-09-04T12:37:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46096592210233211517333984375" lon="114.6105439402163028717041015625">
+        <time>2025-09-04T12:37:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46086198650300502777099609375" lon="114.6104879491031169891357421875">
+        <time>2025-09-04T12:37:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4607539437711238861083984375" lon="114.61042399518191814422607421875">
+        <time>2025-09-04T12:38:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46064992435276508331298828125" lon="114.6103679202497005462646484375">
+        <time>2025-09-04T12:38:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46054397709667682647705078125" lon="114.61029591970145702362060546875">
+        <time>2025-09-04T12:38:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.460433922708034515380859375" lon="114.61023992858827114105224609375">
+        <time>2025-09-04T12:38:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.460327975451946258544921875" lon="114.61018393747508525848388671875">
+        <time>2025-09-04T12:38:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46022596769034862518310546875" lon="114.61012794636189937591552734375">
+        <time>2025-09-04T12:38:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46011599712073802947998046875" lon="114.6100879646837711334228515625">
+        <time>2025-09-04T12:38:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>170</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45999797992408275604248046875" lon="114.61004798300564289093017578125">
+        <time>2025-09-04T12:38:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45987996272742748260498046875" lon="114.61000791750848293304443359375">
+        <time>2025-09-04T12:38:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>170</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45975792221724987030029296875" lon="114.6099679358303546905517578125">
+        <time>2025-09-04T12:38:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459629930555820465087890625" lon="114.609935916960239410400390625">
+        <time>2025-09-04T12:38:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45950395055115222930908203125" lon="114.6099199913442134857177734375">
+        <time>2025-09-04T12:38:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4593779705464839935302734375" lon="114.60989593528211116790771484375">
+        <time>2025-09-04T12:39:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45925199054181575775146484375" lon="114.6099119447171688079833984375">
+        <time>2025-09-04T12:39:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4591519944369792938232421875" lon="114.609999954700469970703125">
+        <time>2025-09-04T12:39:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>159</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4590879566967487335205078125" lon="114.61012794636189937591552734375">
+        <time>2025-09-04T12:39:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>159</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4590319655835628509521484375" lon="114.6102639846503734588623046875">
+        <time>2025-09-04T12:39:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>155</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4589739628136157989501953125" lon="114.610399939119815826416015625">
+        <time>2025-09-04T12:39:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>156</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45892392285168170928955078125" lon="114.61053597740828990936279296875">
+        <time>2025-09-04T12:39:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45886994339525699615478515625" lon="114.6106639690697193145751953125">
+        <time>2025-09-04T12:39:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>157</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45881395228207111358642578125" lon="114.61079992353916168212890625">
+        <time>2025-09-04T12:39:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45876399613916873931884765625" lon="114.61093596182763576507568359375">
+        <time>2025-09-04T12:39:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>158</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45870197005569934844970703125" lon="114.6110639534890651702880859375">
+        <time>2025-09-04T12:39:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>159</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45864991843700408935546875" lon="114.61119194515049457550048828125">
+        <time>2025-09-04T12:39:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45858797617256641387939453125" lon="114.611319936811923980712890625">
+        <time>2025-09-04T12:40:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45853592455387115478515625" lon="114.61145597510039806365966796875">
+        <time>2025-09-04T12:40:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45849795453250408172607421875" lon="114.61159192956984043121337890625">
+        <time>2025-09-04T12:40:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45849393121898174285888671875" lon="114.61174397729337215423583984375">
+        <time>2025-09-04T12:40:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458489991724491119384765625" lon="114.61188797838985919952392578125">
+        <time>2025-09-04T12:40:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45849795453250408172607421875" lon="114.61202393285930156707763671875">
+        <time>2025-09-04T12:40:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585079289972782135009765625" lon="114.6121599711477756500244140625">
+        <time>2025-09-04T12:40:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585139639675617218017578125" lon="114.6123039722442626953125">
+        <time>2025-09-04T12:40:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45852393843233585357666015625" lon="114.6124479733407497406005859375">
+        <time>2025-09-04T12:40:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45852997340261936187744140625" lon="114.612591974437236785888671875">
+        <time>2025-09-04T12:40:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45853592455387115478515625" lon="114.6127359755337238311767578125">
+        <time>2025-09-04T12:40:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585419595241546630859375" lon="114.61288793943822383880615234375">
+        <time>2025-09-04T12:40:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45855998061597347259521484375" lon="114.6130239777266979217529296875">
+        <time>2025-09-04T12:41:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45857992954552173614501953125" lon="114.613159932196140289306640625">
+        <time>2025-09-04T12:41:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45858998782932758331298828125" lon="114.61329597048461437225341796875">
+        <time>2025-09-04T12:41:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458605997264385223388671875" lon="114.61343997158110141754150390625">
+        <time>2025-09-04T12:41:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45861597172915935516357421875" lon="114.61357592605054378509521484375">
+        <time>2025-09-04T12:41:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586239345371723175048828125" lon="114.6137159876525402069091796875">
+        <time>2025-09-04T12:41:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586219228804111480712890625" lon="114.61383995600044727325439453125">
+        <time>2025-09-04T12:41:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45861999504268169403076171875" lon="114.61395193822681903839111328125">
+        <time>2025-09-04T12:41:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>161</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586259461939334869384765625" lon="114.61410398595035076141357421875">
+        <time>2025-09-04T12:41:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45864195562899112701416015625" lon="114.61426399648189544677734375">
+        <time>2025-09-04T12:41:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45865796506404876708984375" lon="114.61443993262946605682373046875">
+        <time>2025-09-04T12:41:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45866793952882289886474609375" lon="114.6145999431610107421875">
+        <time>2025-09-04T12:41:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45867598615586757659912109375" lon="114.61475995369255542755126953125">
+        <time>2025-09-04T12:42:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458711944520473480224609375" lon="114.6149119175970554351806640625">
+        <time>2025-09-04T12:42:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458765923976898193359375" lon="114.6150399930775165557861328125">
+        <time>2025-09-04T12:42:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45883792452514171600341796875" lon="114.61515993811190128326416015625">
+        <time>2025-09-04T12:42:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4589179717004299163818359375" lon="114.6152639575302600860595703125">
+        <time>2025-09-04T12:42:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45900992117822170257568359375" lon="114.61536797694861888885498046875">
+        <time>2025-09-04T12:42:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45910597778856754302978515625" lon="114.61545598693192005157470703125">
+        <time>2025-09-04T12:42:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4592019505798816680908203125" lon="114.61554399691522121429443359375">
+        <time>2025-09-04T12:42:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459295995533466339111328125" lon="114.61563192307949066162109375">
+        <time>2025-09-04T12:42:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459401942789554595947265625" lon="114.61568799801170825958251953125">
+        <time>2025-09-04T12:42:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459515936672687530517578125" lon="114.6157199330627918243408203125">
+        <time>2025-09-04T12:42:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45964191667735576629638671875" lon="114.61573594249784946441650390625">
+        <time>2025-09-04T12:42:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45976596884429454803466796875" lon="114.6157199330627918243408203125">
+        <time>2025-09-04T12:43:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4598919488489627838134765625" lon="114.61571197025477886199951171875">
+        <time>2025-09-04T12:43:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46001792885363101959228515625" lon="114.61571197025477886199951171875">
+        <time>2025-09-04T12:43:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46014399267733097076416015625" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:43:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4602719843387603759765625" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:43:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46039192937314510345458984375" lon="114.61570392362773418426513671875">
+        <time>2025-09-04T12:43:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46050994656980037689208984375" lon="114.61571197025477886199951171875">
+        <time>2025-09-04T12:43:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46062595210969448089599609375" lon="114.61571197025477886199951171875">
+        <time>2025-09-04T12:43:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46072997152805328369140625" lon="114.61571197025477886199951171875">
+        <time>2025-09-04T12:43:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46082393266260623931884765625" lon="114.61571197025477886199951171875">
+        <time>2025-09-04T12:43:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4609219171106815338134765625" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:43:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46103398315608501434326171875" lon="114.61563192307949066162109375">
+        <time>2025-09-04T12:43:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46117396093904972076416015625" lon="114.61552798748016357421875">
+        <time>2025-09-04T12:44:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46128393150866031646728515625" lon="114.61542396806180477142333984375">
+        <time>2025-09-04T12:44:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46136992983520030975341796875" lon="114.61531198583543300628662109375">
+        <time>2025-09-04T12:44:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46145793981850147247314453125" lon="114.6151999197900295257568359375">
+        <time>2025-09-04T12:44:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46154393814504146575927734375" lon="114.61507192812860012054443359375">
+        <time>2025-09-04T12:44:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46162993647158145904541015625" lon="114.61494393646717071533203125">
+        <time>2025-09-04T12:44:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461711995303630828857421875" lon="114.61481594480574131011962890625">
+        <time>2025-09-04T12:44:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46177796088159084320068359375" lon="114.6146959997713565826416015625">
+        <time>2025-09-04T12:44:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>160</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461819954216480255126953125" lon="114.614551998674869537353515625">
+        <time>2025-09-04T12:44:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46184199862182140350341796875" lon="114.6144079975783824920654296875">
+        <time>2025-09-04T12:44:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46184199862182140350341796875" lon="114.61426399648189544677734375">
+        <time>2025-09-04T12:44:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46183998696506023406982421875" lon="114.6141199953854084014892578125">
+        <time>2025-09-04T12:44:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46182791702449321746826171875" lon="114.6139919199049472808837890625">
+        <time>2025-09-04T12:45:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461821965873241424560546875" lon="114.613855965435504913330078125">
+        <time>2025-09-04T12:45:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461823977530002593994140625" lon="114.61371992714703083038330078125">
+        <time>2025-09-04T12:45:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461825989186763763427734375" lon="114.61358397267758846282958984375">
+        <time>2025-09-04T12:45:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46181199140846729278564453125" lon="114.6134479343891143798828125">
+        <time>2025-09-04T12:45:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46180997975170612335205078125" lon="114.6133119799196720123291015625">
+        <time>2025-09-04T12:45:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46180997975170612335205078125" lon="114.61317594163119792938232421875">
+        <time>2025-09-04T12:45:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46181199140846729278564453125" lon="114.613047949969768524169921875">
+        <time>2025-09-04T12:45:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4617939703166484832763671875" lon="114.6129039488732814788818359375">
+        <time>2025-09-04T12:45:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4617579281330108642578125" lon="114.61275198496878147125244140625">
+        <time>2025-09-04T12:45:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46174191869795322418212890625" lon="114.612591974437236785888671875">
+        <time>2025-09-04T12:45:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4617279209196567535400390625" lon="114.61243196390569210052490234375">
+        <time>2025-09-04T12:45:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4617279209196567535400390625" lon="114.61228796280920505523681640625">
+        <time>2025-09-04T12:46:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46172398142516613006591796875" lon="114.61214396171271800994873046875">
+        <time>2025-09-04T12:46:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46171593479812145233154296875" lon="114.61199996061623096466064453125">
+        <time>2025-09-04T12:46:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461703948676586151123046875" lon="114.61184799671173095703125">
+        <time>2025-09-04T12:46:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>167</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46168995089828968048095703125" lon="114.6116959489881992340087890625">
+        <time>2025-09-04T12:46:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>167</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46168793924152851104736328125" lon="114.61154398508369922637939453125">
+        <time>2025-09-04T12:46:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>167</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4616799764335155487060546875" lon="114.61139998398721218109130859375">
+        <time>2025-09-04T12:46:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>168</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4616699181497097015380859375" lon="114.61124793626368045806884765625">
+        <time>2025-09-04T12:46:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46165592037141323089599609375" lon="114.611087925732135772705078125">
+        <time>2025-09-04T12:46:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461583919823169708251953125" lon="114.6109439246356487274169921875">
+        <time>2025-09-04T12:46:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461475960910320281982421875" lon="114.61084795184433460235595703125">
+        <time>2025-09-04T12:46:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461353920400142669677734375" lon="114.6107759512960910797119140625">
+        <time>2025-09-04T12:46:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>172</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46123799867928028106689453125" lon="114.61071199737489223480224609375">
+        <time>2025-09-04T12:47:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>172</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46112199313938617706298828125" lon="114.61064795963466167449951171875">
+        <time>2025-09-04T12:47:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461011938750743865966796875" lon="114.61058392189443111419677734375">
+        <time>2025-09-04T12:47:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46093792654573917388916015625" lon="114.61053597740828990936279296875">
+        <time>2025-09-04T12:47:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4608679376542568206787109375" lon="114.61050395853817462921142578125">
+        <time>2025-09-04T12:47:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>172</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46079996041953563690185546875" lon="114.610455930233001708984375">
+        <time>2025-09-04T12:47:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>172</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4606999643146991729736328125" lon="114.610407985746860504150390625">
+        <time>2025-09-04T12:47:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>170</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46057599596679210662841796875" lon="114.61033598519861698150634765625">
+        <time>2025-09-04T12:47:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46045395545661449432373046875" lon="114.61027194745838642120361328125">
+        <time>2025-09-04T12:47:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>171</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46034197323024272918701171875" lon="114.6102319657802581787109375">
+        <time>2025-09-04T12:47:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>170</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4602379538118839263916015625" lon="114.610175974667072296142578125">
+        <time>2025-09-04T12:47:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4601179249584674835205078125" lon="114.61011998355388641357421875">
+        <time>2025-09-04T12:47:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>168</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45999999158084392547607421875" lon="114.6100799180567264556884765625">
+        <time>2025-09-04T12:48:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45987996272742748260498046875" lon="114.61003993637859821319580078125">
+        <time>2025-09-04T12:48:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459751971065998077392578125" lon="114.60998394526541233062744140625">
+        <time>2025-09-04T12:48:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45962196774780750274658203125" lon="114.609943963587284088134765625">
+        <time>2025-09-04T12:48:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4594959877431392669677734375" lon="114.60992795415222644805908203125">
+        <time>2025-09-04T12:48:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45936799608170986175537109375" lon="114.60990398190915584564208984375">
+        <time>2025-09-04T12:48:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45924193225800991058349609375" lon="114.60992795415222644805908203125">
+        <time>2025-09-04T12:48:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4591439478099346160888671875" lon="114.61001596413552761077880859375">
+        <time>2025-09-04T12:48:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4590839333832263946533203125" lon="114.61013599298894405364990234375">
+        <time>2025-09-04T12:48:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4590339772403240203857421875" lon="114.61027194745838642120361328125">
+        <time>2025-09-04T12:48:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4589779861271381378173828125" lon="114.610399939119815826416015625">
+        <time>2025-09-04T12:48:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45892593450844287872314453125" lon="114.61052793078124523162841796875">
+        <time>2025-09-04T12:48:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45886994339525699615478515625" lon="114.61067193187773227691650390625">
+        <time>2025-09-04T12:49:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45881998725235462188720703125" lon="114.61080797016620635986328125">
+        <time>2025-09-04T12:49:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>162</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45876793563365936279296875" lon="114.61093596182763576507568359375">
+        <time>2025-09-04T12:49:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458715967833995819091796875" lon="114.61107191629707813262939453125">
+        <time>2025-09-04T12:49:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>163</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45866198837757110595703125" lon="114.61119999177753925323486328125">
+        <time>2025-09-04T12:49:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458599962294101715087890625" lon="114.61133594624698162078857421875">
+        <time>2025-09-04T12:49:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45855193398892879486083984375" lon="114.6114719845354557037353515625">
+        <time>2025-09-04T12:49:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45852192677557468414306640625" lon="114.6116159856319427490234375">
+        <time>2025-09-04T12:49:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585199989378452301025390625" lon="114.61177599616348743438720703125">
+        <time>2025-09-04T12:49:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585199989378452301025390625" lon="114.61193592287600040435791015625">
+        <time>2025-09-04T12:49:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45852393843233585357666015625" lon="114.6120959334075450897216796875">
+        <time>2025-09-04T12:49:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45853592455387115478515625" lon="114.612247981131076812744140625">
+        <time>2025-09-04T12:49:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45854992233216762542724609375" lon="114.61240799166262149810791015625">
+        <time>2025-09-04T12:50:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4585659317672252655029296875" lon="114.61256791837513446807861328125">
+        <time>2025-09-04T12:50:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45857992954552173614501953125" lon="114.6127279289066791534423828125">
+        <time>2025-09-04T12:50:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>164</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45858998782932758331298828125" lon="114.61289598606526851654052734375">
+        <time>2025-09-04T12:50:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>165</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.458605997264385223388671875" lon="114.613055996596813201904296875">
+        <time>2025-09-04T12:50:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>166</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45861798338592052459716796875" lon="114.6131919510662555694580078125">
+        <time>2025-09-04T12:50:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>167</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45863994397222995758056640625" lon="114.6133599244058132171630859375">
+        <time>2025-09-04T12:50:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>168</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45864991843700408935546875" lon="114.6135359443724155426025390625">
+        <time>2025-09-04T12:50:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>168</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45865595340728759765625" lon="114.6137039177119731903076171875">
+        <time>2025-09-04T12:50:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>168</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586279578506946563720703125" lon="114.6138799376785755157470703125">
+        <time>2025-09-04T12:50:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>168</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45860792510211467742919921875" lon="114.61402393877506256103515625">
+        <time>2025-09-04T12:50:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>168</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586259461939334869384765625" lon="114.6141759864985942840576171875">
+        <time>2025-09-04T12:50:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>168</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45863994397222995758056640625" lon="114.614319987595081329345703125">
+        <time>2025-09-04T12:51:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586519300937652587890625" lon="114.61447195149958133697509765625">
+        <time>2025-09-04T12:51:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45866198837757110595703125" lon="114.61462399922311305999755859375">
+        <time>2025-09-04T12:51:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4586839489638805389404296875" lon="114.614775963127613067626953125">
+        <time>2025-09-04T12:51:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45872393064200878143310546875" lon="114.61493597365915775299072265625">
+        <time>2025-09-04T12:51:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>170</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4587999545037746429443359375" lon="114.6150879375636577606201171875">
+        <time>2025-09-04T12:51:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45888192951679229736328125" lon="114.61522397585213184356689453125">
+        <time>2025-09-04T12:51:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>169</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45895996503531932830810546875" lon="114.6152959764003753662109375">
+        <time>2025-09-04T12:51:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>170</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45904395170509815216064453125" lon="114.61536797694861888885498046875">
+        <time>2025-09-04T12:51:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>170</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45913799665868282318115234375" lon="114.615463949739933013916015625">
+        <time>2025-09-04T12:51:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>170</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4592579416930675506591796875" lon="114.6155519597232341766357421875">
+        <time>2025-09-04T12:51:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>170</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45938392169773578643798828125" lon="114.61562396027147769927978515625">
+        <time>2025-09-04T12:51:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>173</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.459521971642971038818359375" lon="114.61567995138466358184814453125">
+        <time>2025-09-04T12:52:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>174</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4596579261124134063720703125" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:52:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>175</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.45980595052242279052734375" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:52:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>175</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4599459283053874969482421875" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:52:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>175</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.460097976028919219970703125" lon="114.61567995138466358184814453125">
+        <time>2025-09-04T12:52:21.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>175</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46022596769034862518310546875" lon="114.61567995138466358184814453125">
+        <time>2025-09-04T12:52:26.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>175</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4603539593517780303955078125" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:52:31.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>176</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46047993935644626617431640625" lon="114.61570392362773418426513671875">
+        <time>2025-09-04T12:52:36.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>176</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.4605819471180438995361328125" lon="114.61571197025477886199951171875">
+        <time>2025-09-04T12:52:41.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>176</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.460669957101345062255859375" lon="114.61570392362773418426513671875">
+        <time>2025-09-04T12:52:46.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>176</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46076391823589801788330078125" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:52:51.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>176</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.460895933210849761962890625" lon="114.615695960819721221923828125">
+        <time>2025-09-04T12:52:56.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>176</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46105192042887210845947265625" lon="114.61564793251454830169677734375">
+        <time>2025-09-04T12:53:01.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>176</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46117597259581089019775390625" lon="114.61553595028817653656005859375">
+        <time>2025-09-04T12:53:06.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>176</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46129197813570499420166015625" lon="114.61541592143476009368896484375">
+        <time>2025-09-04T12:53:11.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>176</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.46138199977576732635498046875" lon="114.61527192033827304840087890625">
+        <time>2025-09-04T12:53:16.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>176</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+      <trkpt lat="30.461481995880603790283203125" lon="114.6151439286768436431884765625">
+        <time>2025-09-04T12:53:28.000Z</time>
+        <extensions>
+          <ns3:TrackPointExtension>
+            <ns3:hr>176</ns3:hr>
+          </ns3:TrackPointExtension>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
