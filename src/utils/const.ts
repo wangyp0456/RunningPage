@@ -3,7 +3,7 @@ const MAPBOX_TOKEN =
   // For security reasons, please avoid using the default public token provided by Mapbox as much as possible.
   // Instead, manually add a new token and apply URL restrictions.
   // (please refer to https://github.com/yihong0618/running_page/issues/643#issuecomment-2042668580)
-  'pk.eyJ1IjoieWlob25nMDYxOCIsImEiOiJjbWYxdXR4YncwMTJtMm5zOTE4eTZpMGdtIn0.OnsXdwkZFztR8a5Ph_T-xg';
+  'pk.eyJ1IjoieXB3YW5nIiwiYSI6ImNtZ3VmYzRhbTAzemwyanIxbTFzcDRlZXMifQ.LDZcGYhNN5orY_cGMjBXpw';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
@@ -31,7 +31,7 @@ const USE_GOOGLE_ANALYTICS = false;
 const GOOGLE_ANALYTICS_TRACKING_ID = '';
 
 // styling: set to `true` if you want dash-line route
-const USE_DASH_LINE = true;
+const USE_DASH_LINE = false;
 // styling: route line opacity: [0, 1]
 const LINE_OPACITY = 0.4;
 // styling: map height - responsive design
@@ -44,7 +44,7 @@ const ROAD_LABEL_DISPLAY = true;
 const PRIVACY_MODE = false;
 // updated on 2024/11/17: lights are turned off by default
 //set to `false` if you want to make light off as default, only effect when `PRIVACY_MODE` = false
-const LIGHTS_ON = false;
+const LIGHTS_ON = true;
 //set to `true` if you want to show the 'Elevation Gain' column
 const SHOW_ELEVATION_GAIN = false;
 // richer title for the activity types (like garmin style)
@@ -186,7 +186,7 @@ export const SINGLE_RUN_COLOR_DARK = '#ff4d4f'; // Red for dark theme
 
 // Helper function to get theme-aware RUN_COLOR
 export const getRuntimeRunColor = (): string => {
-  if (typeof window === 'undefined') return RUN_COLOR_DARK;
+  if (typeof window === 'undefined') return RUN_COLOR_LIGHT;
 
   const dataTheme = document.documentElement.getAttribute('data-theme');
   const savedTheme = localStorage.getItem('theme');
@@ -202,7 +202,7 @@ export const getRuntimeRunColor = (): string => {
 
 // Helper function to get theme-aware SINGLE_RUN_COLOR
 export const getRuntimeSingleRunColor = (): string => {
-  if (typeof window === 'undefined') return SINGLE_RUN_COLOR_DARK;
+  if (typeof window === 'undefined') return SINGLE_RUN_COLOR_LIGHT;
 
   const dataTheme = document.documentElement.getAttribute('data-theme');
   const savedTheme = localStorage.getItem('theme');

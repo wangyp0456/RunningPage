@@ -23,7 +23,7 @@ export const getMapThemeFromCurrentTheme = (theme: Theme): string => {
 export const useMapTheme = () => {
   // Initialize map theme based on current settings, default to dark
   const [mapTheme, setMapTheme] = useState(() => {
-    if (typeof window === 'undefined') return MAP_TILE_STYLE_DARK;
+    if (typeof window === 'undefined') return MAP_TILE_STYLE_LIGHT;
 
     // Check for explicit theme in DOM
     const dataTheme = document.documentElement.getAttribute('data-theme');
@@ -124,7 +124,7 @@ export const useMapTheme = () => {
 export const useTheme = () => {
   // Initialize theme from localStorage or default to dark
   const [theme, setThemeState] = useState<Theme>(() => {
-    if (typeof window === 'undefined') return 'dark';
+    if (typeof window === 'undefined') return 'light';
     return (localStorage.getItem('theme') as Theme) || 'dark';
   });
 
