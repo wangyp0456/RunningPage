@@ -5,6 +5,11 @@ import viteTsconfigPaths from 'vite-tsconfig-paths';
 import svgr from 'vite-plugin-svgr';
 import tailwindcss from '@tailwindcss/vite';
 
+// ==============================
+// ⚠️ 修改点 1：判断是否在 GitHub Actions 构建，用于 GitHub Pages 子路径
+const isGitHubPages = process.env.GITHUB_ACTIONS === 'true';
+// ==============================
+
 // The following are known larger packages or packages that can be loaded asynchronously.
 const individuallyPackages = [
   'activities',
@@ -85,7 +90,16 @@ export default defineConfig({
       },
     }),
   ],
-  base: process.env.PATH_PREFIX || '/',
+  //base: process.env.PATH_PREFIX || '/',
+
+    // ==============================
+  // ⚠️ 修改点 2：设置 base 路径
+  // 本地开发: '/'
+  // GitHub Pages: '/RunningPage/'
+  // Cloudflare Pages: '/'
+  base: isGitHubPages ? '/RunningPage/' : '/',
+  // ==============================
+  
   define: {
     'import.meta.env.VERCEL': JSON.stringify(process.env.VERCEL),
   },
