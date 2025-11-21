@@ -22,6 +22,7 @@
    - For old data: To include `Elevation Gain` for past activities, perform a full reimport.
    - To show the 'Elevation Gain' column, modify `SHOW_ELEVATION_GAIN` in `src/utils/const.ts`
    - note: `Elevation Gain` may be inaccurate. You can use Strava's "Correct Elevation" or Garmin's "Elev Corrections" feature for more precise data.
+
 6. It cost me a lot money, so please do not use my mapbox token more check this [issue](https://github.com/yihong0618/running_page/issues/643)
 
 <p align="center">
@@ -878,16 +879,16 @@ You can replace `with-gpx` with `with-tcx` to acquire data in tcx format.
 python3 run_page/komoot_sync.py 'your komoot email' 'password' --with-gpx
 ```
 
-| Parameter | Description |
-| --- | --- |
-| `mail` | Login using specified email address |
-| `password` | Use provided password and skip interactive prompt |
-| `-n`, `--anonymous` | Skip authentication, no interactive prompt (valid only with `-d`) |
-| `--with-gpx` | Download all tours as GPX |
-| `-r`, `--remove-deleted` | Remove GPX files (from `--output` dir) without corresponding tour in Komoot (deleted and previous versions) |
-| `--start-date=YYYY-MM-DD` | Filter tours on or after specified date |
-| `--end-date=YYYY-MM-DD` | Filter tours on or before specified date |
-| `-e`, `--no-poi` | Do not include highlights as POIs |
+| Parameter                 | Description                                                                                                 |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| `mail`                    | Login using specified email address                                                                         |
+| `password`                | Use provided password and skip interactive prompt                                                           |
+| `-n`, `--anonymous`       | Skip authentication, no interactive prompt (valid only with `-d`)                                           |
+| `--with-gpx`              | Download all tours as GPX                                                                                   |
+| `-r`, `--remove-deleted`  | Remove GPX files (from `--output` dir) without corresponding tour in Komoot (deleted and previous versions) |
+| `--start-date=YYYY-MM-DD` | Filter tours on or after specified date                                                                     |
+| `--end-date=YYYY-MM-DD`   | Filter tours on or before specified date                                                                    |
+| `-e`, `--no-poi`          | Do not include highlights as POIs                                                                           |
 
 </details>
 

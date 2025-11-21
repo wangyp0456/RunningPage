@@ -92,14 +92,14 @@ export default defineConfig({
   ],
   //base: process.env.PATH_PREFIX || '/',
 
-    // ==============================
+  // ==============================
   // ⚠️ 修改点 2：设置 base 路径
   // 本地开发: '/'
   // GitHub Pages: '/RunningPage/'
   // Cloudflare Pages: '/'
   base: isGitHubPages ? '/RunningPage/' : '/',
   // ==============================
-  
+
   define: {
     'import.meta.env.VERCEL': JSON.stringify(process.env.VERCEL),
   },
